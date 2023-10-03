@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "david@glicksoftware.com",
+      "properties": {
+        "fullname": "Plone Conference 2023",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "ploneconf2023"
+    }
+  ],
+    "team": [
+  ]
+}
